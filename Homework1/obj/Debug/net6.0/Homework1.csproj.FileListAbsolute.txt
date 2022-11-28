@@ -1,0 +1,15 @@
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework1/bin/Debug/net6.0/Homework1
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework1/bin/Debug/net6.0/Homework1.deps.json
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework1/bin/Debug/net6.0/Homework1.runtimeconfig.json
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework1/bin/Debug/net6.0/Homework1.dll
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework1/bin/Debug/net6.0/Homework1.pdb
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework1/obj/Debug/net6.0/Homework1.csproj.AssemblyReference.cache
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework1/obj/Debug/net6.0/Homework1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework1/obj/Debug/net6.0/Homework1.AssemblyInfoInputs.cache
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework1/obj/Debug/net6.0/Homework1.AssemblyInfo.cs
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework1/obj/Debug/net6.0/Homework1.csproj.CoreCompileInputs.cache
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework1/obj/Debug/net6.0/Homework1.dll
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework1/obj/Debug/net6.0/refint/Homework1.dll
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework1/obj/Debug/net6.0/Homework1.pdb
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework1/obj/Debug/net6.0/Homework1.genruntimeconfig.cache
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework1/obj/Debug/net6.0/ref/Homework1.dll
