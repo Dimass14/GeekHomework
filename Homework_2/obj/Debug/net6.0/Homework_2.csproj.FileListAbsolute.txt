@@ -1,0 +1,15 @@
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework_2/bin/Debug/net6.0/Homework_2
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework_2/bin/Debug/net6.0/Homework_2.deps.json
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework_2/bin/Debug/net6.0/Homework_2.runtimeconfig.json
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework_2/bin/Debug/net6.0/Homework_2.dll
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework_2/bin/Debug/net6.0/Homework_2.pdb
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework_2/obj/Debug/net6.0/Homework_2.csproj.AssemblyReference.cache
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework_2/obj/Debug/net6.0/Homework_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework_2/obj/Debug/net6.0/Homework_2.AssemblyInfoInputs.cache
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework_2/obj/Debug/net6.0/Homework_2.AssemblyInfo.cs
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework_2/obj/Debug/net6.0/Homework_2.csproj.CoreCompileInputs.cache
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework_2/obj/Debug/net6.0/Homework_2.dll
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework_2/obj/Debug/net6.0/refint/Homework_2.dll
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework_2/obj/Debug/net6.0/Homework_2.pdb
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework_2/obj/Debug/net6.0/Homework_2.genruntimeconfig.cache
+/Users/dima2008/Desktop/GeekHomework1C#/GeekHomework/Homework_2/obj/Debug/net6.0/ref/Homework_2.dll
